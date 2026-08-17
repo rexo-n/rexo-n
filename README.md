@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rexon 👋
 
-<!--
-**rexo-n/rexo-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on **automation pipelines, OCR document parsing, and Linux systems**. I build high-efficiency tools that eliminate manual data processing and streamline backend workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tooling
+* **Languages & Scripting:** Python (3.10+), Bash / Shell
+* **Data Processing & Automation:** OCR (Tesseract / EasyOCR), Regular Expressions (RegEx), Pandas, OpenPyXL
+* **Systems & Tools:** Linux (Debian / Arch / Kali), Git & GitHub, System Hardening, Network Fundamentals
+
+---
+
+### 📌 Core Projects
+* **[Logistics ETL & Invoice OCR Engine](#)** — Automated document ingestion pipeline parsing complex industrial and multi-brand vendor formats.
+* **[Linux System & Log Monitor](#)** — Lightweight shell/Python utility for automated server telemetry and backup scheduling.
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/)
+* **Email:** your-email@domain.com
