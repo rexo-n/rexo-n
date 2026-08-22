@@ -17,4 +17,4 @@ If a process is repetitive, broken, or requires a human to stare at a spreadshee
 * **[IG Sync Daemon](#):** An event-driven local-to-cloud sync engine with a real-time UI.
 
 ### 📬 Where to find me
-* **Email:** rexonsuleman@gmail.com
+* **Email:** rexonsuleman@gmail.com (ALT)
