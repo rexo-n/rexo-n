@@ -1,20 +1,90 @@
-# Hey, I'm Rexon 👋
+# Hey, I'm REXON 👋
 
-Let's skip the corporate buzzwords. I write code because I absolutely refuse to do manual data entry, and I like figuring out how low-level systems work. 
+### I build things. I break things. Then I figure out why. 💻
 
-If a process is repetitive, broken, or requires a human to stare at a spreadsheet for four hours, I'll write a Python script to do it in four seconds. I mostly bounce between deep-level Linux forensics, chaotic OCR pipelines, and custom event-driven daemons.
+I'm a self-taught developer and technology enthusiast from Kolkata, currently exploring software development, automation, Linux, Android, networking, cybersecurity, and AI.
 
-### 🛠️ What I Actually Use
-* **Languages:** Python (3.10+), Bash.
-* **The Grunt Work:** OCR (Tesseract), PyMuPDF, Regex (the dark magic kind), PyZbar.
-* **Systems & Backend:** Linux (Debian/Kali), Flask, Server-Sent Events (SSE), multi-threading.
-* **Hardware:** Usually compiling on Katana (i5/1650) or testing on Blade.
+Most of what I know comes from **building things and figuring them out when they inevitably break**.
 
-### 📌 What's in here?
-* **[CROM Document Engine](#):** A live PDF-watching, multi-threaded OCR/QR pipeline. Built because I watched an office manually type 8-digit tracking numbers and it physically hurt my soul.
-* **[Rubber Ducky Pro](#):** Turning a Linux machine into a rogue USB keyboard (`/dev/hidg0`) to automate OS-level payloads. (FOR EDUCATIONAL PURPOSES ONLY)
-* **[Zero-Trust Forensics](#):** Deep byte-level deduplicators and magic-byte carvers that figure out what a file *actually* is when the extension is lying.
-* **[IG Sync Daemon](#):** An event-driven local-to-cloud sync engine with a real-time UI.
+## ⚡ What I Work With
 
-### 📬 Where to find me
-* **Email:** rexonsuleman@gmail.com (ALT)
+**Languages**
+
+* Python
+* Bash / Shell
+
+**Systems & Development**
+
+* Linux
+* Windows
+* Android
+* Android Studio
+* Git / GitHub
+
+**Automation & Data**
+
+* OCR
+* Document processing
+* Data parsing
+* Automation
+* Multithreading
+
+**Security & Networking**
+
+* Linux security tooling
+* Web security fundamentals
+* Wi-Fi & networking
+* System troubleshooting
+
+## 🔨 Things I've Built
+
+### 📄 Logistics OCR Engine
+
+A custom document-processing system born from a real logistics workflow.
+
+It handles OCR, QR/barcode detection, PDF processing, document identification, automated routing, logging, and multithreaded processing.
+
+### 📦 Instagram Backup Parser
+
+A Python tool for turning exported account data into something actually useful.
+
+Includes conversation parsing, media deduplication, data processing, and offline archive generation.
+
+### 📡 Network & Wi-Fi Utilities (Ongoing development)
+
+A collection of Linux-based experiments and utilities for network analysis, automation, and wireless tooling.
+
+## 🧠 My Approach
+
+I don't really learn by memorizing things.
+
+I **build → break → investigate → fix → repeat**.
+
+That means most of my projects start with either:
+
+> "I wonder if I can make this work."
+
+or
+
+> "Why the hell is this doing that?"
+
+Both tend to lead somewhere interesting. 😭
+
+## 🚧 Currently Learning
+
+* Advanced Python
+* Software testing
+* Android development
+* Networking
+* AI/ML
+* Cybersecurity
+* Systems programming
+
+## 📂 Find Me
+
+**GitHub:** [rexo-n](https://github.com/rexo-n)
+**Email:** [rexonsuleman@gmail.com](mailto:rexonsuleman@gmail.com) ALT EMAIL. 
+
+---
+
+### `REXON // keep building.`
